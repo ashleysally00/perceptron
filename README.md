@@ -8,6 +8,8 @@ https://commons.wikimedia.org/wiki/Category:Frank_Rosenblatt
 **translation of prompt from AI**</br>
 *“Hey, find me a photo of Frank Rosenblatt with the Mark I Perceptron, but only from these three solid sites, and don’t bother me with signup or login pages.”*
 
+<img src="https://raw.githubusercontent.com/ashleysally00/perceptron/main/Frank-Rosenblatt-with-his-Mark-1-single-layer-perceptron-b-A-depiction-of-the.png" width="650" alt="Frank Rosenblatt with Mark 1 Perceptron">
+
 Figure 1: (a) Frank Rosenblatt with his Mark-1 single-layer perceptron; (b) A depiction of the neuron and the synaptic connection to another neuron. This is a simplistic depiction of a neuron, showing only the most basic components.
 ### Intro
 You might have heard people talking about machine learning’s deep neural networks. They make things like facial recognition on your phone or the voice assistant in your smart speaker possible. But did you know that the first artificial neural network was invented way back in the 1950s?
