@@ -1,8 +1,7 @@
 # perceptron
 
-https://commons.wikimedia.org/wiki/Category:Frank_Rosenblatt
 
-*prompt:*
+*prompt for google search:*
 "Mark I Perceptron Frank Rosenblatt" site:si.edu OR site:cornell.edu OR site:wikimedia.org -inurl:(signup | login)
 
 **translation of prompt from AI**</br>
