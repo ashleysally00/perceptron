@@ -1,10 +1,10 @@
 # perceptron
 
 
-* The prompt I used in google search:*
+*Here is the prompt I used in google search:*
 "Mark I Perceptron Frank Rosenblatt" site:si.edu OR site:cornell.edu OR site:wikimedia.org -inurl:(signup | login)
 
-**translation of prompt from AI**</br>
+**Here is a translation of prompt from AI**</br>
 *“Hey, find me a photo of Frank Rosenblatt with the Mark I Perceptron, but only from these three solid sites, and don’t bother me with signup or login pages.”*
 
 <img src="https://raw.githubusercontent.com/ashleysally00/perceptron/main/Frank-Rosenblatt-with-his-Mark-1-single-layer-perceptron-b-A-depiction-of-the.png" width="650" alt="Frank Rosenblatt with Mark 1 Perceptron">
