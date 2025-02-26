@@ -13,7 +13,7 @@ https://commons.wikimedia.org/wiki/Category:Frank_Rosenblatt
 ##### *Figure 1: (a) Frank Rosenblatt with his Mark-1 single-layer perceptron; (b) A depiction of the neuron and the synaptic connection to another neuron. This is a simplistic depiction of a neuron, showing only the most basic components.*
 
 ### Intro
-You might have heard people talking about machine learning’s deep neural networks. They make things like facial recognition on your phone or the voice assistant in your smart speaker possible. But did you know that the first artificial neural network was invented way back in the 1950s?
+You might have heard people talking about machine learning’s deep neural networks. They make things like facial recognition on your phone or the voice assistant in your smart speaker possible. But did you know that the first artificial neural network was invented in the 1950s?
 It was called the Perceptron, and it laid the foundation for modern AI, including deep learning and today’s most powerful neural networks. However, it had serious limitations that prevented it from solving more complex problems.
 _____________
 ### What Was the Perceptron?
