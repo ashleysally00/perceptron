@@ -1,7 +1,7 @@
 # perceptron
 
 
-*Here is the prompt I used in google search:*</br>
+*Here is the prompt I used in google search to start this project off:*</br>
 "Mark I Perceptron Frank Rosenblatt" site:si.edu OR site:cornell.edu OR site:wikimedia.org -inurl:(signup | login)
 
 **Here is a translation of that prompt from AI**</br>
