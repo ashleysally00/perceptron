@@ -22,7 +22,11 @@ But did you know that the first trainable neural network was invented in the 195
 ## Frank Rosenblatt and the Mark I Perceptron
 
 ![Frank Rosenblatt with Mark I Perceptron](https://raw.githubusercontent.com/ashleysally00/perceptron/main/Frank-Rosenblatt-with-his-Mark-1-single-layer-perceptron-b-A-depiction-of-the.png)  
-*(Frank Rosenblatt with the Mark I Perceptron)*
+*Frank Rosenblatt with the Mark I Perceptron*
+
+**Image Source:** [ResearchGate](https://www.researchgate.net/figure/a-Frank-Rosenblatt-with-his-Mark-1-single-layer-perceptron-b-A-depiction-of-the_fig1_348294636)  
+**License:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+
 
 ## Meet the Perceptron
 
