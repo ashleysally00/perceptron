@@ -33,3 +33,9 @@ Cats vs. Dogs
 🚫 What It Couldn’t Do
 It couldn’t make complex decisions beyond simple yes/no classifications.
 It failed at recognizing patterns that required more than a straight-line separation—like the XOR problem
+
+An XOR (exclusive OR) logic gate is a basic function in computer science and electronics. It works like this:
+It takes two inputs (which can be either 0 or 1).
+It outputs 1 (true) only when the inputs are different.
+If both inputs are the same, it outputs 0 (false).
+
