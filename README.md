@@ -17,7 +17,7 @@ Here is a translation of that prompt from AI:
 
 You've probably heard a lot about machine learning's deep neural networks. They make things like facial recognition on your phone and voice assistants like Siri and Alexa possible.
 
-But did you know that the first trainable neural network was invented way back in the 1950s? While earlier computational models of neurons existed—such as the McCulloch-Pitts neuron (1943)—the Perceptron, developed by Frank Rosenblatt in 1958, was the first trainable neural network and an important step toward modern AI. However, it had serious limitations that prevented it from solving more complex problems.
+But did you know that the first trainable neural network was invented in the 1950s? While earlier computational models of neurons existed—such as the McCulloch-Pitts neuron (1943)—the Perceptron, developed by Frank Rosenblatt in 1958, was the first trainable neural network and an important step toward modern AI. However, it had serious limitations that prevented it from solving more complex problems.
 
 ## Frank Rosenblatt and the Mark I Perceptron
 
