@@ -1,5 +1,5 @@
 
-# The Perceptron: The First Trainable Neural Network and Its Limitations
+## The Perceptron: The First Trainable Neural Network and Its Limitations
 
 #### How This Project Started
 
